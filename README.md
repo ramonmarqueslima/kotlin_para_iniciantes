@@ -3,7 +3,8 @@
 
 # Kotlin Para Iniciantes.
 
-### Você quer aprender a programar em Kotlin, uma linguagem moderna, concisa e poderosa? 🤔 Então, este curso é para você!🎉
+### Você quer aprender a programar em Kotlin, uma linguagem moderna, concisa e poderosa? 🤔
+### Então, este curso é para você!🎉
 ### Neste curso para **iniciantes**, você vai aprender os conceitos básicos de Kotlin, como:
 
 - **Olá Mundo:** como escrever e executar o seu primeiro programa em Kotlin.🌱
@@ -18,4 +19,4 @@
 ### O conteúdo do curso é de fácil entendimento, com explicações claras e didáticas. Você vai se surpreender com a simplicidade e a expressividade do Kotlin.✅
 ### Não perca tempo e comece já a sua jornada no mundo da programação com Kotlin!💟
 
-## 📣Consulte a [Documentação oficial do Kotltin](https://kotlinlang.org/docs/kotlin-tour-basic-types.html)
+### 📣Consulte a [Documentação oficial do Kotltin](https://kotlinlang.org/docs/kotlin-tour-basic-types.html) para mais informações
