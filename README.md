@@ -22,9 +22,4 @@
 >[!IMPORTANT]
 > Para comceçar Baixe o IntelliJ IDEA **Community** Edition, [clique aqui](https://www.jetbrains.com/idea/download) 
 
->[!WARNING]
->Rola a pagina para baixo até encontrar a versão Community.
->
->Não baixe a versão Ultimate pois ele é pago.
-
-### 📣Consulte a [Documentação oficial do Kotltin](https://kotlinlang.org/docs/kotlin-tour-basic-types.html) para mais detalhes.
+📣Consulte a [Documentação oficial do Kotltin](https://kotlinlang.org/docs/kotlin-tour-basic-types.html) para mais detalhes.
