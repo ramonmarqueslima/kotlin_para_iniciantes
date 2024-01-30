@@ -19,4 +19,12 @@
 ### O conteúdo do curso é de fácil entendimento, com explicações claras e didáticas. Você vai se surpreender com a simplicidade e a expressividade do Kotlin.✅
 ### Não perca tempo e comece já a sua jornada no mundo da programação com Kotlin!💟
 
+>[!IMPORTANT]
+> Para comceçar Baixe o IntelliJ IDEA **Community** Edition, [clique aqui](https://www.jetbrains.com/idea/download) 
+
+>[!WARNING]
+>Rola a pagina para baixo até encontrar a versão Community.
+>
+>Não baixe a versão Ultimate pois ele é pago.
+
 ### 📣Consulte a [Documentação oficial do Kotltin](https://kotlinlang.org/docs/kotlin-tour-basic-types.html) para mais detalhes.
