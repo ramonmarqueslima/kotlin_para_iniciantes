@@ -1,5 +1,5 @@
 
-![kotlin](https://github.com/ramonmarqueslima/kotlin_para_iniciantes/assets/140916877/72c2d9e6-09ef-4482-b4cc-298300ee13bd)
+![Kotlin Full Color Logo on Black RGB](https://github.com/ramonmarqueslima/kotlin_para_iniciantes/assets/140916877/e8c51e0c-bde8-4b44-bac3-0c4ec490337b)
 
 # Kotlin Para Iniciantes.
 
